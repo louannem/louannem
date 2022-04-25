@@ -1,7 +1,7 @@
 <h1>Hi, I'm Lou-Anne ! </h1>
 <a href="mailto:louanne.m0122@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://louannem.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <h2>🍃 About me </h2>
-Fresh out of an Open Classroom Front-End developper formation, I'm a JavaScript/React developper loking for fun projects on the Internet. I live off coding and coffee, as you can expect.<br/>  
+Fresh out of an Open Classroom Front-End developper formation, I'm a JavaScript/React developper looking for fun projects on the Internet. I live off coding and coffee, as you can expect.<br/>  
 
 <br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=louannem"/><br/>
 
