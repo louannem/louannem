@@ -46,6 +46,7 @@ There is a lot of JS going on here. Huh. Can't wait to add more of it !
 <ul>
   <li> My online portfolio with React</li>
   <li> A friend personnal website. The UX/UI is still being worked on tho...</li>
+  <li> A chat app inspired by a project from my OC formation </li>
 </ul>
 
 
